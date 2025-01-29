@@ -1,1 +1,2 @@
-# -Jan28--learning-about-version-control
+# Learning about Version Control
+Author: Effie Wang
